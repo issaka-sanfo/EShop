@@ -821,3 +821,4 @@ C:\Users\USER\source\repos\Github\EShop\EShop.Web\bin\Debug\net6.0\EShop.Models.
 C:\Users\USER\source\repos\Github\EShop\EShop.Web\bin\Debug\net6.0\EShop.Models.pdb
 C:\Users\USER\source\repos\Github\EShop\EShop.Web\obj\Debug\net6.0\build-gz\mflCCGJP.gz
 C:\Users\USER\source\repos\Github\EShop\EShop.Web\obj\Debug\net6.0\build-gz\+s+w+IN8.gz
+C:\Users\USER\source\repos\Github\EShop\EShop.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
